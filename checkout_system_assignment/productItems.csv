@@ -1,0 +1,10 @@
+id, name, description, barcode, price
+p100, Milk, Dairy Food, X0123456, 3.2
+p200, Bread, Baked Goods, X0654321, 2.5
+p300, Eggs, Dairy Food, X0234567, 6.5
+p400, Beef Steak, Red Meat, X0945678, 15.0
+p500, Lettuce, Vegetable, X0659173, 4
+p600, Apples, Fruit, X0371953, 3
+p700, Strawberry Punnet, Fruit, X0167923, 2.5
+p800, Pasta, Cereals/Grains, X0947865, 3
+p900, Butter, Fridge Section, X0654912, 4.5
